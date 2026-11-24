@@ -3,7 +3,8 @@ name: Refresh GitHub profile statistics
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "7,37 * * * *"
+      timezone: "Asia/Kolkata"
   workflow_dispatch:
   push:
     branches:
