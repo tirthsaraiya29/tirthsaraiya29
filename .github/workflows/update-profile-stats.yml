@@ -1,4 +1,5 @@
 name: Refresh GitHub profile statistics
+# Pinned to reviewed action commits; README image URLs are cache-busted on each run.
 
 on:
   schedule:
