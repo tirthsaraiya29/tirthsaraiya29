@@ -88,8 +88,10 @@ I enjoy working across the stack: from native operating-system APIs and networki
 ## GitHub at a glance
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tirthsaraiya29&show_icons=true&rank_icon=github&hide_border=true&theme=transparent" alt="GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirthsaraiya29&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Most used languages" />
+  <!-- GENERATED_STATS_CARDS:START -->
+  <img height="170" src="./profile/stats.svg?v=setup" alt="GitHub statistics" />
+  <img height="170" src="./profile/top-langs.svg?v=setup" alt="Most used languages" />
+  <!-- GENERATED_STATS_CARDS:END -->
 </div>
 
 ---
