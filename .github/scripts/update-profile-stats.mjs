@@ -1,7 +1,7 @@
 import { readFile, writeFile } from "node:fs/promises";
 
 const runId = process.env.GITHUB_RUN_ID;
-if (!runId || !/^\\d+$/.test(runId)) {
+if (!runId || [...runId].some((char) => char < "0" || char > "9")) {
   throw new Error("GITHUB_RUN_ID must be a numeric workflow run ID.");
 }
 
