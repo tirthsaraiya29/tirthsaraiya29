@@ -63,9 +63,9 @@ I enjoy working across the stack: from native operating-system APIs and networki
       <sub><strong>Kotlin · Android · Jetpack Compose · Hugging Face</strong></sub>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/tirthsaraiya29/Echo-Web">Echo Web</a></h3>
-      <p>A browser-native music experience built independently for the web, with responsive playback interfaces, Web Audio integration, and persistent local application data.</p>
-      <sub><strong>TypeScript · React · Vite · Web Audio · IndexedDB</strong></sub>
+      <h3><a href="https://github.com/tirthsaraiya29/Echo-Music-Web">Echo Music Web</a></h3>
+      <p>A public monorepo fork combining Echo Music's Android source with a separately engineered React/TypeScript browser client. The upstream restructuring proposal is open for review.</p>
+      <sub><strong>TypeScript · React · Vite · Hono · Web Audio · IndexedDB</strong></sub>
     </td>
   </tr>
 </table>

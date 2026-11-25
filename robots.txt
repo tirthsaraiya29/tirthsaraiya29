@@ -1,6 +1,3 @@
-# robots.txt — Tirth Saraiya Portfolio
-# https://tirthsaraiya.vercel.app
-
 User-agent: *
 Allow: /
 
