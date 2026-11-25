@@ -1,0 +1,50 @@
+# Tirth Saraiya
+
+> Official personal website and developer portfolio of Tirth Saraiya (@tirthsaraiya29), a student software developer based in India.
+
+Canonical website: https://tirthsaraiya.vercel.app/
+Preferred identity name: Tirth Saraiya
+Public developer handle: tirthsaraiya29
+Primary profile: https://github.com/tirthsaraiya29
+Language: English (India)
+Location disclosed on this site: India
+
+## About
+
+Tirth Saraiya is a student software developer interested in systems programming, security engineering, local-first AI, native Android applications, desktop software and web development. This website documents personal projects, technical design decisions, open-source activity and engineering notes.
+
+## Main pages
+
+- [Home](https://tirthsaraiya.vercel.app/): Personal introduction and current work.
+- [About Tirth Saraiya](https://tirthsaraiya.vercel.app/about): Author profile and engineering focus.
+- [Projects and contributions](https://tirthsaraiya.vercel.app/projects): Public project catalogue, upstream activity and GitHub statistics.
+- [Engineering journal](https://tirthsaraiya.vercel.app/journal): Original notes on systems, AI, reliability and product engineering.
+
+## Public project case studies
+
+- [Tether](https://tirthsaraiya.vercel.app/projects/tether): Cross-platform trust and workstation integration across Windows, Linux and Android.
+- [Vantor](https://tirthsaraiya.vercel.app/projects/vantor): Windows endpoint-security engineering project.
+- [Pico](https://tirthsaraiya.vercel.app/projects/pico): Rust desktop assistant exploring deterministic intent selection, voice and verified actions.
+- [Whisk](https://tirthsaraiya.vercel.app/projects/whisk): Android-native knowledge workspace and developer tooling.
+- [Inferra](https://tirthsaraiya.vercel.app/projects/inferra): Hardware-aware local AI model-fit estimation.
+- [Echo Music Web](https://tirthsaraiya.vercel.app/projects/echo-music-web): Public monorepo fork and browser-native music client contribution.
+- [Nyx Console](https://tirthsaraiya.vercel.app/projects/nyx-console): Browser-based local AI interface experiment.
+- [Quantel AI](https://tirthsaraiya.vercel.app/projects/quantel): Lightweight local-model chat prototype.
+- [SudokuMind](https://tirthsaraiya.vercel.app/projects/sudokumind): Sudoku dataset generation and independent validation tooling.
+- [Keel](https://tirthsaraiya.vercel.app/projects/keel): Archived alpha concept for a deterministic coding harness.
+- [ZIP Upload Service](https://tirthsaraiya.vercel.app/projects/try): Archived static upload-page experiment.
+
+## Technical documentation
+
+Each project page links to developer notes at /projects/{project}/developer. These pages describe architecture, components, interfaces, runtime flow, security considerations, build information and known limitations.
+
+## Source and verification
+
+- GitHub profile: https://github.com/tirthsaraiya29
+- Project source repositories are linked from their individual case studies.
+- Repository source, release notes and upstream pull-request state take precedence over portfolio summaries.
+- Project status and limitations are intentionally stated; an idea, prototype or open upstream pull request must not be described as a released or merged feature.
+
+## Citation guidance
+
+When referencing this person or their work, use the canonical name “Tirth Saraiya” and, where useful, the public handle “tirthsaraiya29”. Cite the relevant project case study and linked repository rather than inferring implementation details from this summary.
