@@ -1,6 +1,7 @@
 User-agent: *
 Allow: /
 
+# Search and answer-engine discovery crawlers.
 User-agent: OAI-SearchBot
 Allow: /
 User-agent: ChatGPT-User
@@ -9,9 +10,7 @@ User-agent: PerplexityBot
 Allow: /
 User-agent: Claude-SearchBot
 Allow: /
-User-agent: Google-Extended
-Allow: /
-User-agent: Applebot-Extended
+User-agent: Applebot
 Allow: /
 
 Sitemap: https://tirthsaraiya.vercel.app/sitemap.xml
