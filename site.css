@@ -22,7 +22,7 @@ button:focus-visible,a:focus-visible{outline:2px solid var(--accent);outline-off
 ::selection{background:var(--accent);color:#fff}
 .skip-link{position:absolute;left:14px;top:-80px;z-index:1000;background:var(--strong);color:var(--bg);padding:10px 14px}
 .skip-link:focus{top:12px}
-.wrap{width:calc(100% - var(--gutter)*2);max-width:var(--wrap);margin-inline:auto}
+.wrap{width:100%;max-width:calc(var(--wrap) + var(--gutter) + var(--gutter));padding-inline:var(--gutter);box-sizing:border-box;margin-inline:auto}
 .site-header{position:sticky;top:0;z-index:50;background:color-mix(in srgb,var(--bg) 92%,transparent);backdrop-filter:blur(14px);border-bottom:1px solid var(--line)}
 .header-inner{min-height:76px;display:flex;align-items:center;gap:28px}
 .brand{display:flex;align-items:center;gap:11px;text-decoration:none;margin-right:auto;color:var(--strong)}
