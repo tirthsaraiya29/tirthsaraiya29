@@ -8,9 +8,6 @@
   <h3>Student developer · Systems thinker · Builder</h3>
 
   <p>
-    <a href="https://github.com/tirthsaraiya29">
-      <img src="https://img.shields.io/badge/GitHub-tirthsaraiya29-181717?style=for-the-badge&logo=github" alt="GitHub" />
-    </a>
     <a href="https://tirthsaraiya.vercel.app/">
       <img src="https://img.shields.io/badge/Portfolio-Visit-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
