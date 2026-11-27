@@ -86,8 +86,8 @@ I enjoy working across the stack: from native operating-system APIs and networki
 
 <div align="center">
   <!-- GENERATED_STATS_CARDS:START -->
-  <img height="170" src="./profile/stats.svg?v=45912604851" alt="GitHub statistics" />
-  <img height="170" src="./profile/top-langs.svg?v=45912604851" alt="Most used languages" />
+  <img height="170" src="./profile/stats.svg?v=45963305447" alt="GitHub statistics" />
+  <img height="170" src="./profile/top-langs.svg?v=45963305447" alt="Most used languages" />
   <!-- GENERATED_STATS_CARDS:END -->
 </div>
 
